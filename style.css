@@ -375,11 +375,11 @@ section .title::after{
 .skills-content .right .js::before{
     width: 50%;
 }
-.skills-content .right .photoshop::before{
-    width: 50%;
-}
 .skills-content .right .bootstrap::before{
-    width: 70%;
+    width: 65%;
+}
+.skills-content .right .laravel::before{
+    width: 50%;
 }
 
 /* teams section */
